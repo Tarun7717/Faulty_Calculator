@@ -1,0 +1,1 @@
+This is a simple calculator in thisI only used JS which asks user for input using prompt() dialog box and returns the result, but there is one catch it performs correct operation 90% of the time but in the 10% of time it performs wrong operations.
